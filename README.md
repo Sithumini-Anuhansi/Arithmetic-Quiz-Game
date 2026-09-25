@@ -1,4 +1,8 @@
-# Test Your Arithmetic Knowledge
+# Arithmetic Quiz Game 🧠✨
+
+A lightweight Windows Forms desktop application built in C# designed to test and improve basic arithmetic skills through randomized math challenges.
+
+## Test Your Arithmetic Knowledge
 
 A Windows Forms desktop game that quizzes the player on arithmetic — addition, subtraction, multiplication, and division — with three selectable difficulty levels.
 
@@ -52,4 +56,10 @@ On start (and on restart), `GenerateGame()` picks a number range based on the se
 
 ## License
 
-MIT (or update this section with your preferred license)
+This project is licensed under the **MIT License** - see the LICENSE file for details.
+
+---
+
+<div align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sithumini-Anuhansi.student-pass-fail-ml&left_text=Views"/>
+</div>
