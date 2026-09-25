@@ -60,6 +60,17 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ---
 
+## Author
+
+**Sithumini Anuhansi**
+
+Software Engineering Undergraduate (NIBM)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anuhansisithumini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithumini-anuhansi-5b32a8334)
+
+---
+
 <div align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sithumini-Anuhansi.student-pass-fail-ml&left_text=Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sithumini-Anuhansi.Arithmetic-Quiz-Game&left_text=Views"/>
 </div>
