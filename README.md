@@ -1,5 +1,7 @@
 # Arithmetic Quiz Game 🧠✨
 
+![Logo](logo.png)
+
 A lightweight Windows Forms desktop application built in C# designed to test and improve basic arithmetic skills through randomized math challenges.
 
 ## Test Your Arithmetic Knowledge
